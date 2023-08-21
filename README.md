@@ -1,4 +1,3 @@
-![](github.png)
 # 💫 About Me:
 🔭 I’m currently working on content creation and freelancing also I'm doing internship by pw Skills in the field of java development<br>👯 I’m looking to collaborate on Back-End development as well as content creation<br>🤝 I’m looking for help with developing many software that can find the user easily<br>🌱 I’m currently learning java DSA system Design by pw skills ( Physics wallah )<br>💬 Ask me about - java, HTML, CSS, JAVASCRIPT | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | PHOTOGRAPHY & EDITER |<br>⚡ Fun fact - coding lover , singing 
 
