@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on content creation and freelancing also I'm doing internship by pw Skills in the field of python development<br>👯 I’m looking to collaborate on Back-End development as well as content creation<br>🤝 I’m looking for help with developing many software that can find the user easily<br>🌱 I’m currently learning python DSA system Design by pw skills ( Physics wallah )<br>💬 Ask me about - Python|Java| HTML | CSS| JAVASCRIPT | DBMS | MongoDB | JDBC | DSA | System Design | Spring Boot | Spring Rest | PHOTOGRAPHY & EDITER |<br>⚡ Fun Fact - coding lover , singing 
+🔭## 👋 About Me
+- 🔭 I have done an internship in **Web Development** at *CODSOFT Skills *
+- 👨‍💻 I'm a dedicated **Full Stack Developer** with practical experience in building modern, scalable, and responsive web applications using the **MERN Stack** and **Java**
+- 👯 Actively seeking opportunities to collaborate on real-world web projects, especially in **Back-End Development**
+- 🌱 Currently deepening my knowledge in **Data Structures & Algorithms (DSA)** and **System Design**
+- 💬 Tech Stack I Work With:  
+    `HTML`, `CSS`, `JavaScript` `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Java`,  `Git`, `GitHub`
+- ⚡ Fun Fact: I love solving coding challenges and enjoy exploring UI design in my spare time
+ Boot**
+- 👯 Looking to collaborate on **Back-End Development**, **Web Apps**, and **Creative Tech Content**
+- 🤝 Interested in developing software solutions that improve usability and solve real-world problems
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)** to level up my problem-solving skills
+- 💬 Ask me about:  
+    `HTML`, `CSS`, `JavaScript`, `React`, `Node.js`, `Express`,`MongoDB`,`Java`, `Git`, `GitHub`, `Editing`
+- ⚡ Fun Fact: I’m a **coding lover** who enjoys **singing** and **creative storytelling**
+
+---
 
 
 ## 🌐 Socials:
