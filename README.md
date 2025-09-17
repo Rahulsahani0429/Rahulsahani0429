@@ -9,7 +9,7 @@ For Collaboration, Projects, or Opportunities 😊
 👨‍💻 About Me
 
 I love building scalable web applications and solving problems with clean, efficient code.
-My journey started with Python & Java, and now I specialize in the MERN Stack, focusing on backend development, APIs, and databases. Recently, I’ve been exploring FastAPI for building high-performance Python backends.
+My journey started with Python & Java, and now I specialize in the MERN Stack, focusing on backend development, APIs, and databases. Recently, I’ve been exploring FastAPI for building high-performance .
 
 🔭 I’m currently working on
 
